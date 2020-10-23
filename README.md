@@ -225,6 +225,8 @@ _num=18000 loss_name="softmax"
  
 ## 参考引用 
 
-[1] 目标检测库: [https://github.com/PaddlePaddle/PaddleDetection](https://github.com/PaddlePaddle/PaddleDetection )
-[2] 模型库和基线: [https://github.com/PaddlePaddle/PaddleDetection/blob/release/0.3/docs/MODEL_ZOO_cn.md](https://github.com/PaddlePaddle/PaddleDetection/blob/release/0.3/docs/MODEL_ZOO_cn.md )
-[3] 度量学习库: [https://github.com/PaddlePaddle/models/tree/develop/PaddleCV/metric_learning](https://github.com/PaddlePaddle/models/tree/develop/PaddleCV/metric_learning) 
+- [1] 目标检测库: [https://github.com/PaddlePaddle/PaddleDetection](https://github.com/PaddlePaddle/PaddleDetection)
+
+- [2] 模型库和基线: [https://github.com/PaddlePaddle/PaddleDetection/blob/release/0.3/docs/MODEL_ZOO_cn.md](https://github.com/PaddlePaddle/PaddleDetection/blob/release/0.3/docs/MODEL_ZOO_cn.md)
+
+- [3] 度量学习库: [https://github.com/PaddlePaddle/models/tree/develop/PaddleCV/metric_learning](https://github.com/PaddlePaddle/models/tree/develop/PaddleCV/metric_learning) 
